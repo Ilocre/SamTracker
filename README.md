@@ -13,6 +13,7 @@ An offline, Mactracker-inspired reference tool built for Android, providing exha
 * **Language:** Kotlin
 * **UI Framework:** Jetpack Compose (Material 3)
 * **Architecture:** MVVM / Repository pattern
+* **Suported Android versions:** 7-17+
 
 ## Installation
 
